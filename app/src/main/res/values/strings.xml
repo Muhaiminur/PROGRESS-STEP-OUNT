@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Progress Step Count</string>
+    <string name="One">Upload Photo</string>
+    <string name="Two">Enter Name1</string>
+    <string name="Three">Enter Name2</string>
+    <string name="Four">Enter Name3</string>
+    <string name="Five">Enter Name4</string>
+    <string name="Six">Enter Name5</string>
+    <string-array name="count">
+        <item>@string/One</item>
+        <item>@string/Two</item>
+        <item>@string/Three</item>
+        <item>@string/Four</item>
+    </string-array>
+
+    <string name="hint_name">Enter Full Name</string>
+    <string name="hint_user_name">Enter User Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_mobile">Enter Mobile Number</string>
+    <string name="hint_alter_mobile">Enter Alternative Mobile Number</string>
+    <string name="hint_nid">Enter Nid/Birth Certificate Number</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm">Confirm Password</string>
+    <string name="spinner_title">Number of Vehicle</string>
+    <string name="vehicle_company">Enter Vehicle Company Name</string>
+    <string name="vehicle_model">Enter Vehicle Model</string>
+    <string name="vehicle_number">Enter Vehicle Registration Number</string>
+</resources>
